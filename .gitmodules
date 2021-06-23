@@ -1,0 +1,3 @@
+[submodule "xstac"]
+	path = xstac
+	url = https://github.com/cisaacstern/xstac
